@@ -1,0 +1,16 @@
+body{
+	background-color: red;
+	background-image: url(https://i.gifer.com/47tv.gif);
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p{
+	font-size: 15mm;
+	color:blue;
+	background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg);
+	background-size: cover;		
+}
+.img1{
+	width:25%;
+}

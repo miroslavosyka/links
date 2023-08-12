@@ -1,0 +1,10 @@
+body{
+	background-image: url(https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg);
+background-size: cover;
+}
+p{
+	font-size: 50pt;
+}
+.p1{
+	background: repeating-linear-gradient(45deg, silver 10% , grey 20%);
+}   

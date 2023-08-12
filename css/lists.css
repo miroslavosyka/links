@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+body{
+	background-color: lightcyan;
+}
+p{
+	font-size: 50px;
+	color:hotpink ;
+text-align:center;
+font-family:'kablammo', cursive ;
+text-shadow: 2px -2px red, 4pxx -4px grey;
+}
+ul{
+	font-size: 24px;
+	color: blue;

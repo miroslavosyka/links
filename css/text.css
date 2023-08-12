@@ -1,0 +1,10 @@
+h1{
+	font-weight: 400;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 5px;
+}
+p{
+	text-align: justify;
+	text-indent: 24px;
+}

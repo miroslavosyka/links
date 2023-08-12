@@ -1,0 +1,35 @@
+body{       
+	background-color: skyblue;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	font-family: 'kablammo',cursive;
+	color: black;
+	text-shadow: 2px -2px gray;
+}
+table{
+	border: double 5px white;
+	font-size: 24px;
+	width: 50%;
+}
+th,td{
+	border: solid 2px white;
+}
+th,td{
+	border: solid 2px white;
+	width: 25%;
+	height: 1.5cm;
+}
+tr:hover{
+	background-color: lightgray;
+}
+td:hover{
+	background-image: url(https://media.tenor.com/KdtU9q5XTkEAAAAC/rainbow.gif);
+background-size: cover;
+text-align: center;
+font-weight: 700;
+text-transform: uppercase;
+color: pink;
+font-size: 1.5em;
+}

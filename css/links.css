@@ -1,0 +1,9 @@
+body{
+	background-color: lightseagreen;
+}
+p{
+	font-size: 50px;
+	background-color: orange;
+	color: blue;
+	text-align: center;
+}
